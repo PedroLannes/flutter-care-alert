@@ -208,24 +208,24 @@ Quando você abre o app pela primeira vez, verá a **Tela de Configuração**.
 ```
 lib/
 ├── config/
-│   ├── app_config.dart          # Configurações gerais
-│   └── firebase_config.dart     # Configuração Firebase
+│   ├── app_config.dart           # Configurações gerais
+│   └── firebase_config.dart      # Configuração Firebase
 ├── models/
-│   ├── call_request.dart        # Modelo de chamada
-│   └── call_type.dart           # Tipos de chamada
+│   ├── call_request.dart         # Modelo de chamada
+│   └── call_type.dart            # Tipos de chamada
 ├── screens/
-│   ├── caller_screen.dart       # Tela do Chamador (A)
-│   ├── receiver_screen.dart     # Tela do Receptor (B)
-│   └── setup_screen.dart        # Configuração inicial
+│   ├── caller_screen.dart        # Tela do Chamador (A)
+│   ├── receiver_screen.dart      # Tela do Receptor (B)
+│   └── setup_screen.dart         # Configuração inicial
 ├── services/
-│   ├── call_service.dart        # Orquestrador de chamadas
-│   ├── firebase_service.dart    # Lógica Firebase
+│   ├── call_service.dart         # Orquestrador de chamadas
+│   ├── firebase_service.dart     # Lógica Firebase
 │   └── notification_service.dart # Notificações locais
 ├── widgets/
-│   ├── call_button.dart         # Botão de chamada
-│   ├── call_card.dart           # Card de solicitação
-│   └── status_indicator.dart    # Indicador online/offline
-└── main.dart                    # Entry point
+│   ├── call_button.dart          # Botão de chamada
+│   ├── call_card.dart            # Card de solicitação
+│   └── status_indicator.dart     # Indicador online/offline
+└── main.dart                     # Entry point
 ```
 
 ---
