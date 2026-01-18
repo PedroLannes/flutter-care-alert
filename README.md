@@ -36,7 +36,7 @@ Sistema de comunicação entre dois dispositivos Android onde um dispositivo (Ch
 ### Passo 1: Clonar/Preparar o Projeto
 
 ```bash
-git clone https://github.com/PedroLannes/care_alert
+git clone https://github.com/PedroLannes/flutter-care-alert
 cd botao
 flutter pub get
 ```
