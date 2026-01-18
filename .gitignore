@@ -1,0 +1,64 @@
+# Arquivos e pastas gerados automaticamente
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos sensíveis do Firebase
+# IMPORTANTE: Cada usuário deve configurar seu próprio Firebase
+android/app/google-services.json
+android/app/google-services-temp.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Configurações locais
+local.properties
+
+# Android
+*.jks
+*.keystore
+key.properties
+*.hprof
+
+# iOS (para futuras implementações)
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Coverage
+coverage/
+*.lcov
+
+# Logs
+*.log
+
+# Documentação de Desenvolvimento (Não publicar)
+GITHUB_PUBLISH_GUIDE.md
+RESUMO.md
+HISTORICO_ARQUITETURA.md
+SOLUCAO_HISTORICO.md
+CHECKLIST.md
+FASE2.md
+CLOUD_FUNCTIONS.md
+firestore_rules_CONFIGURE_NO_FIREBASE.txt
+firestore_rules.txt
+# Rascunhos de Marketing (Não publicar)
+POST_LINKEDIN.md
+MARKETING.md
