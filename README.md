@@ -101,7 +101,7 @@ service cloud.firestore {
 }
 ```
 
-**⚠️ IMPORTANTE:** Para produção, implemente regras de segurança adequadas! Ver [firestore_rules_CONFIGURE_NO_FIREBASE.txt](firestore_rules_CONFIGURE_NO_FIREBASE.txt)
+**⚠️ IMPORTANTE:** Para produção, implemente regras de segurança adequadas!
 
 #### 2.5. Atualizar Configuração no Código
 
