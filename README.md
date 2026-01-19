@@ -47,15 +47,15 @@ flutter pub get
 
 1. Acesse [Firebase Console](https://console.firebase.google.com/)
 2. Clique em "Adicionar projeto"
-3. Nome do projeto: `call-system` (ou outro de sua escolha)
+3. Nome do projeto: `flutter-care-alert` (ou outro de sua escolha)
 4. Siga o assistente de criação
 
 #### 2.2. Adicionar App Android ao Firebase
 
 1. No painel do projeto, clique em "Adicionar app" → Android
 2. Preencha:
-   - **Nome do pacote:** `com.example.call_system`
-   - **Apelido do app:** Call System
+   - **Nome do pacote:** `com.example.flutter-care-alert`
+   - **Apelido do app:** Flutter Care Alert
    - **Certificado SHA-1:** (opcional para desenvolvimento)
 3. **Baixe o arquivo `google-services.json`**
 4. **SUBSTITUA** o arquivo placeholder em: `android/app/google-services.json`
