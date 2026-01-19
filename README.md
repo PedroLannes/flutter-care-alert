@@ -37,7 +37,7 @@ Sistema de comunicação entre dois dispositivos Android onde um dispositivo (Ch
 
 ```bash
 git clone https://github.com/PedroLannes/flutter-care-alert
-cd botao
+cd flutter-care-alert
 flutter pub get
 ```
 
